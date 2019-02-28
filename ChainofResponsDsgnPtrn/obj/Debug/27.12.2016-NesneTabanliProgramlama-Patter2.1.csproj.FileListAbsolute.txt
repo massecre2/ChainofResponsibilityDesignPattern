@@ -1,0 +1,8 @@
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\27.12.2016-NesneTabanliProgramlama-Patter2.1\27.12.2016-NesneTabanliProgramlama-Patter2.1\bin\Debug\27.12.2016-NesneTabanliProgramlama-Patter2.1.exe.config
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\27.12.2016-NesneTabanliProgramlama-Patter2.1\27.12.2016-NesneTabanliProgramlama-Patter2.1\bin\Debug\27.12.2016-NesneTabanliProgramlama-Patter2.1.exe
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\27.12.2016-NesneTabanliProgramlama-Patter2.1\27.12.2016-NesneTabanliProgramlama-Patter2.1\bin\Debug\27.12.2016-NesneTabanliProgramlama-Patter2.1.pdb
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\27.12.2016-NesneTabanliProgramlama-Patter2.1\27.12.2016-NesneTabanliProgramlama-Patter2.1\obj\Debug\27.12.2016-NesneTabanliProgramlama-Patter2.1.exe
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\27.12.2016-NesneTabanliProgramlama-Patter2.1\27.12.2016-NesneTabanliProgramlama-Patter2.1\obj\Debug\27.12.2016-NesneTabanliProgramlama-Patter2.1.pdb
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\27.12.2016-NesneTabanliProgramlama-Patter2.1\27.12.2016-NesneTabanliProgramlama-Patter2.1\bin\Debug\27.12.2016-NesneTabanliProgramlama-Patter2.1.exe.config
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\27.12.2016-NesneTabanliProgramlama-Patter2.1\27.12.2016-NesneTabanliProgramlama-Patter2.1\obj\Debug\27.12.2016-NesneTabanliProgramlama-Patter2.1.exe
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\27.12.2016-NesneTabanliProgramlama-Patter2.1\27.12.2016-NesneTabanliProgramlama-Patter2.1\obj\Debug\27.12.2016-NesneTabanliProgramlama-Patter2.1.pdb
